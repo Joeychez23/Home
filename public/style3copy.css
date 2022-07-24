@@ -126,7 +126,7 @@ input, select {
 
 /*Menu Navigation Start*/
 body {
-    /*background-image: url("blue-background-copy.jpg");*/
+    background-image: url("blue-background-copy.jpg");
 }
 
 .M {
@@ -144,7 +144,7 @@ body {
     width: 60px;
     height: 100%;
     background-color: black;
-    /*background-image: url("menuCopy.png");*/
+    background-image: url("menuCopy.png");
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
