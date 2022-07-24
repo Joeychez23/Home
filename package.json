@@ -2,14 +2,11 @@
   "name": "home",
   "version": "1.0.0",
   "main": "homeServer.js",
-  "devDependencies": {},
   "scripts": {
     "start": "node homeServer.js"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "body-parser": "^1.20.0",
     "express": "^4.18.1",
