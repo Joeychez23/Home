@@ -81,7 +81,7 @@ connection.connect(function(err) {
 
 
 
-//app.set('view engine', 'ejs');
+app.set('view engine', 'ejs');
 
 console.log("START");
 
