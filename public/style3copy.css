@@ -144,7 +144,7 @@ body {
     width: 60px;
     height: 100%;
     background-color: black;
-    background-image: url("menuCopy.png");
+    /*background-image: url("menuCopy.png");*/
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
